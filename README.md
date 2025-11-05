@@ -1,4 +1,7 @@
-# fcitx5-hazkey
+# fcitx5-hazkey-void
+
+void linux で動かしたい
+
 Hazkey input method for fcitx5
 
 [AzooKeyKanaKanjiConverter](https://github.com/ensan-hcl/AzooKeyKanaKanjiConverter)を利用したIMEです
